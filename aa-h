@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1 , b1
+http://het104a.4rouwanda-shop.store:80/live/918454578001/index.m3u8
+#EXTINF:-1 , b2
+http://het104a.4rouwanda-shop.store:80/live/69854211/index.m3u8
+#EXTINF:-1 , b3
+http://het104a.4rouwanda-shop.store:80/live/645587700/index.m3u8
+#EXTINF:-1 , b4
+http://176.119.29.54:80/e09943ac-48bc-4ac7-80cd-050e846dd7ad.m3u8?md5=tnIiN3IqtHpUvlvvBfxEEQ&expires=1758142069
+#EXTINF:-1 , b5
+http://176.119.29.54:80/7f270b4b-0b5f-4405-a2a3-41cbe0902821.m3u8?md5=JB7ouHNAIraAUql5IHelDA&expires=1758142327
+#EXTINF:-1 , b6
+http://176.119.29.54:80/2033e44d-fb78-4d1d-87c5-e113009f710a.m3u8?md5=QOeVeDkl3AE49LOBLUUmcA&expires=1758142391
+#EXTINF:-1 , b7
+http://176.119.29.54:80/28a459e7-83c3-45c7-bac3-55d524b2a64b.m3u8?md5=E40pMdLiFbyqHhTN9kL0FQ&expires=1758142430
+#EXTINF:-1 , b8
+http://176.119.29.54:80/e814a746-94f1-4d93-8664-eb32b47673c4.m3u8?md5=CQfDJYACyQXEEp79xDT-JQ&expires=1758142476
+#EXTINF:-1 , b9
+http://176.119.29.54:80/00df2c2c-c740-41c4-b1ae-d7b57469bccc.m3u8?md5=S68UPLfJpKrVOzrPPi9rgg&expires=1758142511
