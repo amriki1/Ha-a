@@ -17,3 +17,21 @@ http://176.119.29.54:80/28a459e7-83c3-45c7-bac3-55d524b2a64b.m3u8?md5=E40pMdLiFb
 http://176.119.29.54:80/e814a746-94f1-4d93-8664-eb32b47673c4.m3u8?md5=CQfDJYACyQXEEp79xDT-JQ&expires=1758142476
 #EXTINF:-1 , b9
 http://176.119.29.54:80/00df2c2c-c740-41c4-b1ae-d7b57469bccc.m3u8?md5=S68UPLfJpKrVOzrPPi9rgg&expires=1758142511
+#EXTINF:-1,beIN Sports 1 4K
+http://dream4k.co/play/live.php?mac=00:1A:79:17:12:88&stream=114053&extension=ts&play_token=O6zPT2TEYU
+#EXTINF:-1,beIN Sports 2 4K
+http://dream4k.co/play/live.php?mac=00:1A:79:17:12:88&stream=114052&extension=ts&play_token=iKOQXxjKZT
+#EXTINF:-1,beIN Sports 3 4K
+http://dream4k.co/play/live.php?mac=00:1A:79:17:12:88&stream=114050&extension=ts&play_token=qCJ7hY3kO6
+#EXTINF:-1,beIN Sports 4 4K
+http://dream4k.co/play/live.php?mac=00:1A:79:17:12:88&stream=114049&extension=ts&play_token=r9YOPacpft
+#EXTINF:-1,beIN Sports 5 4K
+http://dream4k.co/play/live.php?mac=00:1A:79:17:12:88&stream=114048&extension=ts&play_token=SAdBHQC97l
+#EXTINF:-1,beIN Sports 6 4K
+http://dream4k.co/play/live.php?mac=00:1A:79:17:12:88&stream=114047&extension=ts&play_token=Cww2rvmLN8
+#EXTINF:-1,beIN Sports 7 4K
+http://dream4k.co/play/live.php?mac=00:1A:79:17:12:88&stream=114046&extension=ts&play_token=TeDZBDJ7EL
+#EXTINF:-1,beIN Sports 8 4K
+http://dream4k.co/play/live.php?mac=00:1A:79:17:12:88&stream=114045&extension=ts&play_token=lJDl4EqxIO
+#EXTINF:-1,beIN Sports 9 4K
+http://dream4k.co/play/live.php?mac=00:1A:79:17:12:88&stream=114044&extension=ts&play_token=EgveLNP9fb
