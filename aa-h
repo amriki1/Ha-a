@@ -58,3 +58,36 @@ http://drmv3-m6.info:80/play/live.php?mac=00:1A:79:84:1A:60&stream=274704&extens
 http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:84:0F:1B&stream=/play/live.php?mac=00:1A:79:BF:47:35&stream=32835&extension=ts
 #EXTINF:-1, tvg-id="RMCSport2.fr" tvg-logo="https://static.epg.best/fr/RMCSport2.fr.png" tvg-name="RMC Sport 2 FHD"  group-title="Sports",RMC Sport 2 FHD
 http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:BF:47:35&stream=203436&extension=ts
+___
+#EXTINF:-1 tvg-id="MBC1.ae" tvg-logo="https://mbc-lite-strapi-s3.s3.me-south-1.amazonaws.com/svg_mbc_1_0bf58055e9.svg" ,MBC 1
+https://mbc1-enc.edgenextcdn.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
+#EXTINF:-1 tvg-id="MBC 2" tvg-logo="https://mbc-lite-strapi-s3.s3.me-south-1.amazonaws.com/svg_mbc_2_5ae3f15729.svg" ,MBC 2
+
+#EXTINF:-1 tvg-id="MBC3.ae" tvg-logo="https://mbc-lite-strapi-s3.s3.me-south-1.amazonaws.com/svg_mbc_3_dae34fae7b.svg" ,MBC 3
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f97694addb5ded/index.m3u8
+#EXTINF:-1 tvg-id="MBC 4 HD+" tvg-logo="https://mbc-lite-strapi-s3.s3.me-south-1.amazonaws.com/svg_mbc_4_8d4307615e.svg" ,MBC 4
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-4/24f134f1cd63db9346439e96b86ca6ed/index.m3u8
+#EXTINF:-1 tvg-id="MBC 5 HD+" tvg-logo="https://mbc-lite-strapi-s3.s3.me-south-1.amazonaws.com/svg_mbc_5_cf153622ec.svg" ,MBC 5
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-5/ee6b000cee0629411b666ab26cb13e9b/index.m3u8
+#EXTINF:-1 tvg-id="MBCAction.ae" tvg-logo="https://mbc-lite-strapi-s3.s3.me-south-1.amazonaws.com/svg_mbc_action_33b48024b3.svg" ,MBC ACTION
+
+#EXTINF:-1 tvg-id="MBCMax.ae" tvg-logo="https://mbc-lite-strapi-s3.s3.me-south-1.amazonaws.com/svg_mbc_max_33d6507438.svg" ,MBC MAX
+
+#EXTINF:-1 tvg-id="MBCDramaHD.us" tvg-logo="https://mbc-lite-strapi-s3.s3.me-south-1.amazonaws.com/svg_mbc_drama_a536283ae5.svg" ,MBC DRAMA
+https://mbcdrama-usa-enc.edgenextcdn.net/out/v1/876f960feec24a8aba9e9d3f9023174b/index.m3u8
+#EXTINF:-1 tvg-id="MBCDramaPlus.ae" tvg-logo="https://mbc-lite-strapi-s3.s3.me-south-1.amazonaws.com/svg_mbc_drama_1_8592a27973.svg" ,MBC DRAMA+
+https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8
+#EXTINF:-1 tvg-id="MBCBollywood.ae" tvg-logo="https://mbc-lite-strapi-s3.s3.me-south-1.amazonaws.com/svg_mbc_bollywood_d2bef5e158.svg" ,MBC BOLLYWOOD
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://mbc-lite-strapi-s3.s3.me-south-1.amazonaws.com/svg_mbc_variety_aaa60f39e8.svg" ,MBC VARIETY
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://mbc-lite-strapi-s3.s3.me-south-1.amazonaws.com/svg_mbc_iraq_716ec2b8be.svg" ,MBC IRAQ 
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-iraq/e38c44b1b43474e1c39cb5b90203691e/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://mbc-lite-strapi-s3.s3.me-south-1.amazonaws.com/svg_mbc_wanasah_6e5de3ccae.svg" ,WANASAH
+https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://mbc-lite-strapi-s3.s3.me-south-1.amazonaws.com/svg_mbc_fm_a8ecfac455.svg" ,MBC FM
+https://mbcfm-riyadh-prod-dub.shahid.net/out/v1/69c8a03f507e422f99cf5c07291c9e3a/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://mbc-lite-strapi-s3.s3.me-south-1.amazonaws.com/svg_panorama_d091f6cb68.svg" ,PANORAMA FM
+https://shls-panoramafm-prod-dub.shahid.net/out/v1/66262e420d824475aaae794dc2d69f14/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/sa/spacetoon.png" ,SPACETOON
+https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8
