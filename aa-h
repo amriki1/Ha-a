@@ -219,3 +219,51 @@ https://amg01255-secomcofites-my-myzen-samsungfr-samsungfr-36vwz.amagi.tv/playli
 https://live.creacast.com/myzentv-france/myzentv-france.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VvRpRty/myzen.png",MY ZEN WELLBEING
 https://amg01492-secomsasmediart-myzen-fr-rakuten-spvgz.amagi.tv/hls/amagi_hls_data_rakutenAA-myzen-fr-rakuten/CDN/master.m3u8
+___
+#EXTINF:-1 tvg-id="Crime_Beat_TV" tvg-logo="https://d1biytugnv36sr.cloudfront.net/resize?width=400&height=225&url=https://images.frequency.com/video/9d2w9rogbpjq1xtro6ictl67k/w1920_h1080/9d2w9rogbpjq1xtro6ictl67k.jpg" group-title="Crime",Crime Beat TV
+https://linear-940.frequency.stream/dist/lg-us/940/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="Crime_ThrillHer" tvg-logo="https://img.platform.wurl.dev/channel/1056/lg/28d4f8/LG-400x225_v1.png" group-title="Crime",Crime ThrillHer
+https://aenetworks.global.transmit.live/hls/68b77f472119c010f116648d/v1/aenetworks_thrillher_1/lg_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="Total_Crime" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/resized_images/TOTCRI/resized_92f3935d252beda77a97cfc2e21a4592e1d6b00d9e8d67e81c333212784c9ece_hfa01052482jpg_400_225.png" group-title="Crime",Total Crime
+https://bam-totalcrime-lg-us.amagi.tv/hls/amagi_hls_data_bamcanada-bamca-totalcrime-lg/CDN/master.m3u8
+#EXTINF:-1 tvg-id="A&E_Crime_360" tvg-logo="https://img.platform.wurl.dev/channel/393/lg/9045f5/LG-400x225_v2.png" group-title="Crime",A&E Crime 360
+https://aenetworks.global.transmit.live/hls/68b76f7c793640e982cd670c/v1/aenetworks_crime360_1/lg_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="Crimes_Cults_Killers__by_A&E" tvg-logo="https://img.platform.wurl.dev/channel/1055/lg/22f210/LG-400x225_v1.png" group-title="Crime",Crimes Cults Killers  by A&E
+https://aenetworks.global.transmit.live/hls/68b779592bcf083f5d656235/v1/aenetworks_kriminal_1/lg_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="World's_Most_Evil_Killers" tvg-logo="https://image.xumo.com/v1/assets/asset/XM0DW8U8DOHWSG/400x225.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F99993006%2F400x225.jpg%3Ftype%3DchannelTile" group-title="Crime",World's Most Evil Killers
+https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8
+#EXTINF:-1 tvg-id="Cold_Case_Files" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/resized_images/AECCF/resized_94d1a1db3e60df9b7f0bc4839bad19a6d7b5c296c5d0891867b58b96354bb7a8_256509418624thumbjpg_400_225.png" group-title="Crime",Cold Case Files
+https://amg00276-aenetwork-amg00276c3-lg-us-1235.playouts.now.amagi.tv/playlist/amg00276-aetelevisionnetworksfast-coldcasefiles-lgus/playlist.m3u8
+#EXTINF:-1 tvg-id="Live_PD_Presents" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/resized_images/lpdpr/resized_dbda138a5198a7cf7e614538368a71e35b7d36f7707cafcac55bef053138b857_237585480019thumbjpg_400_225.png" group-title="Crime",Live PD Presents
+https://amg00276-aenetwork-amg00276c26-lg-us-7268.playouts.now.amagi.tv/playlist/amg00276-aetelevisionnetworksfast-livepdpresents-lgus/playlist.m3u8
+#EXTINF:-1 tvg-id="JAIL" tvg-logo="https://img.platform.wurl.dev/channel/1201/lg/371c00/LG-400x225_v1.png" group-title="Crime",JAIL
+https://78bf3d85d8174a0b80cc1d82a3940110.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/LG_Jail/playlist.m3u8
+#EXTINF:-1 tvg-id="Law&Crime" tvg-logo="https://img.platform.wurl.dev/channel/226/lg/649349/LG-400x225_v1.png" group-title="Crime",Law&Crime
+https://37699f7d.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEdfTGF3YW5kQ3JpbWVfSExT/playlist.m3u8
+#EXTINF:-1 tvg-id="Court_TV" tvg-logo="https://img.platform.wurl.dev/channel/1516/lg/0f59a3/LG-400x225_v1.png" group-title="Crime",Court TV
+https://cd63c9a2.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEdfQ291cnRUVl9ITFM/playlist.m3u8
+#EXTINF:-1 tvg-id="Buzzr" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/resized_images/BUZZR/resized_81097d13797157d445229005f08a6e74987b094fd98df7a9889191991f802e0c_bodylanguagejpg_400_225.png" group-title="Game Shows",Buzzr
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00145-fremantlemedian-buzzr-lgus/playlist.m3u8
+#EXTINF:-1 tvg-id="The_Price_Is_Right" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/resized_images/TPIRT/resized_adbd9ab7bbe0e9bc7f50d191eb2d76c761192c3d4beb409b8f303e5fda6675a1_thepriceisrightchannel16x9jpg_400_225.png" group-title="Game Shows",The Price Is Right
+https://amg00145-amg00145c16-lg-us-5075.playouts.now.amagi.tv/playlist/amg00145-fremantlemediafast-thepriceisright-lgus/playlist.m3u8
+#EXTINF:-1 tvg-id="Game_Show_Central" tvg-logo="https://img.platform.wurl.dev/channel/416/lg/b2b042/LG-400x225_v1.png" group-title="Game Shows",Game Show Central
+https://a75de7fe.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEdfR2FtZVNob3dDZW50cmFsLTFfSExT/playlist.m3u8
+#EXTINF:-1 tvg-id="Family_Feud" tvg-logo="https://image.xumo.com/v1/assets/asset/XM05M2DNCS12L6/400x225.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F99992282%2F400x225.jpg%3Ftype%3DchannelTile" group-title="Game Shows",Family Feud
+https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8
+#EXTINF:-1 tvg-id="Deal_or_No_Deal" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/resized_images/DORNODLGUS/resized_d740131da6d047dad476743a6366e3cb4a1ca5c11824cd9ccc2ab8c80864e57e_dealornodealusaseason02623490jpg_400_225.png" group-title="Game Shows",Deal or No Deal
+https://banijay-dealornodeal-lg-us.amagi.tv/hls/amagi_hls_data_lgAAAAAAA-banijay-dealornodeal-lg-us/CDN/master.m3u8
+#EXTINF:-1 tvg-id="Wipeout_Xtra" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/resized_images/WIPOXT/resized_896c284ac9620a483244ea99d27165361f656f3dfaea5e280f9c43ded3a6c678_lgchthumbnail1920x1080jpg_400_225.png" group-title="Game Shows",Wipeout Xtra
+https://banijay-wipeoutxtra-lg-us.amagi.tv/hls/amagi_hls_data_lgAAAAAAA-banijay-wipeoutxtra-lg-us/CDN/master.m3u8
+#EXTINF:-1 tvg-id="WeatherSpy" tvg-logo="https://img.platform.wurl.dev/channel/1143/lg/d69ea1/LG-400x225_v2.png" group-title="Nature",WeatherSpy
+https://c3b4be95.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEdfV2VhdGhlclNweV9ITFM/playlist.m3u8
+#EXTINF:-1 tvg-id="BBC_Earth" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/resized_images/BBCE5/resized_dda28c56cd28eeb515688a021d1b9ada3aa04a25b25d4c50155cc75cabab4d72_bbcsseasonalwonderlandsbid5408keyartbrandlangenglishaeckvwbciyjpg_400_225.png" group-title="Nature",BBC Earth
+https://amg00793-bbcstudios-amg00793c3-lg-us-2528.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbcearta-lgus/playlist.m3u8
+#EXTINF:-1 tvg-id="WildEarth" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/resized_images/WILDEARTHUS/resized_7f3dd06e34d5c48bc6659d37f066b15f552e6ff01ec0aa204d878d8a19ede29e_safarilivesunrisejpg_400_225.png" group-title="Nature",WildEarth
+https://wildearth-lg-us.amagi.tv/hls/amagi_hls_data_wildearth-wildearth-lg-us/CDN/master.m3u8
+#EXTINF:-1 tvg-id="Love_Nature" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/resized_images/BAMLOVEENG/resized_a23140ed40b643405e7ac38c03a83585889b8fca6ca814f80554b9ee1d5f85a7_hfa01054973jpg_400_225.png" group-title="Nature",Love Nature
+https://bamus-lovenature-lg.amagi.tv/hls/amagi_hls_data_bamusaAAA-bamus-lovenature-lg/CDN/master.m3u8
+#EXTINF:-1 tvg-id="PBSNature" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/resized_images/PBSNT/resized_30ffc88d5afd59de0522488ea413a2eb1f4db3494a885dff4b0c98d7dacb9b4a_lgthumbnail1920x1080ajpg_400_225.png" group-title="Nature",PBSNature
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01597-wnetnewyorkpubl-pbsnature-lgus/playlist.m3u8
+#EXTINF:-1 tvg-id="NatureVision" tvg-logo="https://image.xumo.com/v1/assets/asset/XM0X0P5ULJU9TO/400x225.jpg?fb=https%3A%2F%2Fimage.xumo.com%2Fv1%2Fchannels%2Fchannel%2F99992106%2F400x225.jpg%3Ftype%3DchannelTile" group-title="Nature",NatureVision
+https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8
+
