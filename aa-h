@@ -592,3 +592,37 @@ https://jmp2.uk/str-7053.m3u8
 https://jmp2.uk/str-5293.m3u8
 #EXTINF:-1 channel-id="6535" tvg-id="6535" tvg-chno="934" tvg-name="KSL-TV -5 - (Salt Lake City, UT)" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2025/01/04/1735953238nK14oLpbaK-632x395-hPAmddYL.png" group-title="News Flash Live, STIRR Cities",KSL-TV -5 - (Salt Lake City UT)
 https://jmp2.uk/str-6535.m3u8
+___
+#EXTINF:-1 tvg-id="national-geographic-us-eastern" tvg-name="National Geographic US Eastern SD" group-title="Live",National Geographic US Eastern SD
+https://tvpass.org/live/NationalGeographicEast/sd
+#EXTINF:-1 tvg-id="national-geographic-us-eastern" tvg-name="National Geographic US Eastern HD" group-title="Live",National Geographic US Eastern HD
+https://tvpass.org/live/NationalGeographicEast/hd
+#EXTINF:-1 tvg-id="national-geographic-wild" tvg-name="National Geographic Wild SD" group-title="Live",National Geographic Wild SD
+https://tvpass.org/live/NationalGeographicWildEast/sd
+#EXTINF:-1 tvg-id="national-geographic-wild" tvg-name="National Geographic Wild HD" group-title="Live",National Geographic Wild HD
+https://tvpass.org/live/NationalGeographicWildEast/hd
+#EXTINF:-1 tvg-id="nba-tv-usa" tvg-name="NBA TV USA SD" group-title="Live",NBA TV USA SD
+https://tvpass.org/live/NBATV/sd
+#EXTINF:-1 tvg-id="nba-tv-usa" tvg-name="NBA TV USA HD" group-title="Live",NBA TV USA HD
+https://tvpass.org/live/NBATV/hd
+#EXTINF:-1 tvg-id="science" tvg-name="Science SD" group-title="Live",Science SD
+https://tvpass.org/live/Science/sd
+#EXTINF:-1 tvg-id="science" tvg-name="Science HD" group-title="Live",Science HD
+https://tvpass.org/live/Science/hd
+#EXTINF:-1 tvg-id="sec-network" tvg-name="SEC
+#EXTINF:-1 tvg-id="the-cooking-channel" tvg-name="The Cooking Channel SD" group-title="Live",The Cooking Channel SD
+https://tvpass.org/live/CookingChannel/sd
+#EXTINF:-1 tvg-id="the-cooking-channel" tvg-name="The Cooking Channel HD" group-title="Live",The Cooking Channel HD
+https://tvpass.org/live/CookingChannel/hd
+#EXTINF:-1 tvg-id="the-tennis-channel" tvg-name="The Tennis Channel SD" group-title="Live",The Tennis Channel SD
+https://tvpass.org/live/TennisChannel/sd
+#EXTINF:-1 tvg-id="the-tennis-channel" tvg-name="The Tennis Channel HD" group-title="Live",The Tennis Channel HD
+https://tvpass.org/live/TennisChannel/hd
+
+
+
+
+
+
+
+
